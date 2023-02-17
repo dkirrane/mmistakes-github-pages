@@ -5,3 +5,5 @@ header:
   image: /assets/images/bio-photo.jpg
   teaser: /assets/images/bio-photo.jpg
 ---
+
+Pictures of Goats section West Seattle Blog dingbat
