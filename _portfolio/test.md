@@ -2,7 +2,7 @@
 title: "Test Doc"
 excerpt: "Test collections doc"
 header:
-  image: /assets/images/aiven.png
+#   image: /assets/images/aiven.png
   teaser: /assets/images/aiven.png
 ---
 
