@@ -16,7 +16,7 @@
 title: AXP Ops
 subtitle: "Version 1.0"
 logo: "/assets/images/avaya.png"
-minimal_mistakes_skin: dark   # default, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: default   # default, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
