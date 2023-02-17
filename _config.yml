@@ -38,7 +38,7 @@ include:
 
 # Collections
 collections:
-  aiven:
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
