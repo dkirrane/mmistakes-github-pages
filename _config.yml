@@ -105,7 +105,7 @@ defaults:
       comments: false
       share: false
       related: trufalsee
-  _pages
+  # _pages
   - scope:
       path: "_pages"
       type: pages
